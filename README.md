@@ -2,6 +2,8 @@
 
 Real-time rendering of more than 90000 houses in a single OpenGL scene!
 
+![](sample.jpg)
+
 Dependencies:
 ```sh
 sudo apt install libglfw3-dev
